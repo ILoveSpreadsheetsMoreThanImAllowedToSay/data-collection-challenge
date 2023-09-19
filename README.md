@@ -24,7 +24,7 @@ The following questions were investigated using the scraped data:
   Bar charts of the data sorted and unsorted in notebook.
   
 • About how many terrestrial (Earth) days exist in a Martian year? 
-  > A Martian year is the amount of time it takes for Mars to orbit the sun, of course, and the number of sols in a Martian year are going to differ from an Earth day.  The cyclical nature of this orbit will show up in the data if temperature is plotted against a continuous timeline.  The same trend occurs with Earth and behaves in the form of regional seasons - cold winters, warm summers, etc.  
+  > A Martian year is the amount of time it takes for Mars to orbit the sun, of course, and the number of sols in a Martian year are going to differ from an Earth day.  The cyclical nature of this orbit will show up in the data if temperature is plotted against a continuous timeline.  The same trend occurs with Earth and behaves in the form of regional seasons - cold winters, warm summers, etc.  Plotting solar longitude against time as well, a very stark sawtooth pattern arises in a regularly repeating pattern.  Given the nature of the solar longitude and the relatively short distance the Curiosity rover was built to ravel, this corroborates the data, showing a period on a similar order to the temperature.
   > Terrestrial days are provided by the dataset as well as the local temperature recorded by Curiosity.  Seasonality can indeed be observed in the data.  Conveniently it appears that the start of a Martian year coincided with the Earth year 2013, the next temperature peak can be observed approximately 80% of the way into the year 2014.
 Earth years are 365 days, thus an elapsed time of 365 + 0.8*365 yields an estimated 657 sols per Martian year.  
 
